@@ -66,4 +66,5 @@ npx sahilsinghrawat
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahil-rawat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-rawat&hide=css,html">
   </p>
