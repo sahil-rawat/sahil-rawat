@@ -60,13 +60,9 @@ To learn more you can refer to my npm card which can be used as With npm install
 ```
 npx sahilsinghrawat
 ```
+<p align="center">
 <img src="https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/sahil.gif?token=AMW6YFTQMGNAAQ2SE6UZY7C7INZES"/>
+</p>
 <hr>
-<h2 align="center">📊 GitHub Stats</h2>
-<br>
 
-
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil-rawat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
-![Sahil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-rawat&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
