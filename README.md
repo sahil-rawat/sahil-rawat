@@ -1,6 +1,6 @@
-<img src='src/header.png'>
+<img src='https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/header.png?token=AMW6YFWS5RJ3YITV26VLNK27INZCO'>
 
-# Hello, folks! <img src="src/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/wave.gif?token=AMW6YFXNWQ3LPDZVQCHEZ7S7INZGW" width="30px">
 
 My name is Sahil Singh Rawat and I'm a Engineering Student, Developer and a Ethical Hacking Enthusiast I'm from India, living in Indore and currently pursuing B.Tech CSE.
 I'm a tech enthusiast who loves to learn about new things.
@@ -60,7 +60,7 @@ To learn more you can refer to my npm card which can be used as With npm install
 ```
 npx sahilsinghrawat
 ```
-<img src="src/sahil.gif"/>
+<img src="https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/sahil.gif?token=AMW6YFTQMGNAAQ2SE6UZY7C7INZES"/>
 <hr>
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
