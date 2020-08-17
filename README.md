@@ -65,11 +65,8 @@ npx sahilsinghrawat
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 
-<a href="https://github.com/sahil-rawat/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-rawat&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/sahil-rawat/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-rawat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sahil's GitHub Stats" />
-</a>
 
-<hr>
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil-rawat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sahil-rawat/)
+
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-rawat&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sahil-rawat/)
+
