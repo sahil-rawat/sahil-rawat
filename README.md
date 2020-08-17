@@ -64,3 +64,6 @@ npx sahilsinghrawat
 <img src="https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/sahil.gif?token=AMW6YFTQMGNAAQ2SE6UZY7C7INZES"/>
 </p>
 <hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-rawat">
+  </p>
