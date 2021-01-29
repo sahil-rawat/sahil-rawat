@@ -67,5 +67,5 @@ npx sahilsinghrawat
 <h2 align="center">📊 Github Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahil-rawat&show_icons=true&line_height=27&&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-rawat&hide=css,html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-rawat&hide=css,html,scss,less">
 </p>
