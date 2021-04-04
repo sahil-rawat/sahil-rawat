@@ -11,7 +11,8 @@ Lets Connect.
 [![Linkedin Badge](https://img.shields.io/badge/-SahilISinghRawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-singh-rawat/)](https://www.linkedin.com/in/sahil-singh-rawat/)
 [![Github Badge](https://img.shields.io/badge/-SahilSinghRawat-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sahil-rawat/)](https://github.com/sahil-rawat)
 [![Twitter Badge](https://img.shields.io/badge/-SahilSinghRawat-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sahil_s_rawat)](https://twitter.com/sahil_s_rawat)
-[![Gmail Badge](https://img.shields.io/badge/-sahilsinghrawat1405@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsinghrawat1405@gmail.com)](mailto:sahilsinghrawat1405@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sahilsinghrawat1405@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsinghrawat1405@gmail.com)](mailto:sahil@sahilsinghrawat.in)
+[![Gmail Badge](https://img.shields.io/badge/-sahil@sahilsinghrawat.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsinghrawat1405@gmail.com)](mailto:sahilsinghrawat1405@gmail.com)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
