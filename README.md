@@ -42,7 +42,7 @@ I'm a Computer Science Undergrad. I'm a coder, devloper, hacker. I'm passionate 
 🔒 I am currently learning about the cybersecurity field, How to secure the Web Servers/Applications, learning about Cryptography and Pentesting.
 </li>
 <li>
-🧑🏻‍💻 Actively Participating in Various Compititons, Hackathons.
+🧑🏻‍💻 Actively Participating in Various Competitions , Hackathons.
 </li>
 <li>
 🖥 Web Devloper
