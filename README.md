@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/header.png?token=AMW6YFWS5RJ3YITV26VLNK27INZCO'>
+<img src='https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/header.png'>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/wave.gif?token=AMW6YFXNWQ3LPDZVQCHEZ7S7INZGW" width="30px">
 
